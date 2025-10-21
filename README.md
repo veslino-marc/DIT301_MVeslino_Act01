@@ -1,4 +1,4 @@
-# DIT2-1-MarcVeslino-Act01
+# DIT3-1-MarcVeslino-Act01
 
 1. What challenges did you face in installing Android Studio?
    The installation took a long time because Android Studio is a heavy software.
